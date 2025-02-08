@@ -9,7 +9,6 @@ For the past few years I've been working on PythonMonkey, a low-level embedding 
 * 🌍  I'm based in Kingston, Ontario
 * ✉️  You can contact me at [zollqir@gmail.com](mailto:zollqir@gmail.com)
 * 🚀  I'm currently working on [Dominions 6 Pretender Calculator - A tool for players to use when playing Dominions 6](http://https://zollqir.github.io/pretenders-dom6/)
-* 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on anything!
 
 ### Skills
