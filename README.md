@@ -4,13 +4,12 @@ Hi 👋 My name is Caleb Aikens
 Developer and Nerd
 ------------------
 
-For the past few years I've been working on PythonMonkey, a low-level embedding of Mozilla's SpiderMonkey JavaScript engine in Python, which allows the two languages to seamlessly communicate. I've learned extremely intimate details of how both Python and JavaScript function as a result, including their implementations in C/C++.
+From 2022-2025 I worked at Distributive on PythonMonkey, a low-level embedding of Mozilla's SpiderMonkey JavaScript engine in Python, which allows the two languages to seamlessly communicate. I've learned extremely intimate details of how both Python and JavaScript function as a result, including their implementations in C/C++.
 
-* 🌍  I'm based in Kingston, Ontario
-* ✉️  You can contact me at [zollqir@gmail.com](mailto:zollqir@gmail.com)
-* 🐒 I am the inventor and project development lead of [PythonMonkey](https://github.com/Distributive-Network/PythonMonkey/)
-* 🚀  I'm currently working on [Dominions 6 Pretender Calculator - A tool for players to use when playing Dominions 6](http://https://zollqir.github.io/pretenders-dom6/)
-* 🤝  I'm open to collaborating on anything!
+Now, I work at AMD on the D3D NPI team (Direct3D New Product Integration), working on upcoming AMD products.
+
+* 🌍  I'm based in Sutton, Ontario
+* ✉️  You can contact me at [caikens@amd.com](mailto:caikens@amd.com)
 
 ### Skills
 
